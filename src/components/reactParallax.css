@@ -1,0 +1,7 @@
+.react-parallax-bgimage {
+  height: 100% !important;
+  object-position: top !important;
+}
+.react-parallax-content {
+  position: static !important;
+}

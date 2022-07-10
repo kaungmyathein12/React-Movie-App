@@ -1,0 +1,21 @@
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.btn {
+  padding: 10px 20px;
+}
+@media screen and (max-width: 600px) {
+  .detail {
+    height: 700px !important;
+    background-position: center !important;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}

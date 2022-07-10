@@ -1,0 +1,17 @@
+.currentMovie {
+  height: 650px;
+}
+.wave {
+  bottom: -12.5rem;
+}
+.btn {
+  padding: 10px 20px;
+}
+@media screen and (min-width: 540px) {
+  .currentMovie {
+    height: 600px;
+  }
+  .wave {
+    bottom: -11rem;
+  }
+}
